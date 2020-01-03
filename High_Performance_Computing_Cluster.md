@@ -1,7 +1,13 @@
-Submission
-	$qsub <yourfile>
-Status Check
-	$qstat
-Cancel a job
-	$qdel <Job_ID>
-		
+# TASK MANAGEMENT 
+* Submission 
+```bash
+qsub <yourfile>
+```
+* Status Check
+```bash
+qstat
+```
+* Cancel a job 
+```bash
+qdel <Job_ID>
+```		
